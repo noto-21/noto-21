@@ -1,5 +1,5 @@
 I’m interested in Python, Java, JS, SQL, and C-Family programming languages.
-I’m currently learning Object-Oriented Programming, as well as Web Development.
+Currently studying Object-Oriented Programming, Web Development, and AI.
 
 LinkedIn:  linkedin.com/in/nt-se
 
