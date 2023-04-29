@@ -1,9 +1,16 @@
-I’m interested in Java, JS, Python, and C-Family programming languages.
-Currently studying Object-Oriented Programming, Web Development, and AI.
+### Studying [Software Engineering](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) // 3<sup>rd</sup> Year
 
-LinkedIn:  linkedin.com/in/nt-se
+---
 
-<!---
-tommachuk/tommachuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in <mark>JS</mark>, <mark>PHP</mark>, <mark>Java</mark>, <mark>Python</mark>, and <mark>C-Family</mark> programming languages.
+
+Currently exploring:
+
+- Fullstack Development
+- Object-Oriented Programming
+- Functional Programming
+- AI
+
+---
+
+> [LinkedIn](linkedin.com/in/nt-se)
