@@ -13,4 +13,5 @@ Currently exploring:
 
 ---
 
-> [LinkedIn](https://www.linkedin.com/in/nt-se)
+>|[Skills](Skills.md)|[LinkedIn](https://www.linkedin.com/in/nt-se)|
+>|---|---|
