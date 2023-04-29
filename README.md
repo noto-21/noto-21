@@ -1,4 +1,4 @@
->### [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) // <mark>3<sup>rd</sup> Year</mark>
+### [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) // <mark>3<sup>rd</sup> Year</mark>
 
 ---
 
