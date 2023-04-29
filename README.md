@@ -14,4 +14,4 @@ Currently exploring:
 ---
 
 >|[Skills](Skills.md)|[LinkedIn](https://www.linkedin.com/in/nt-se)|
->|---|---|
+>|:---:|:---:|
