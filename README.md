@@ -13,4 +13,4 @@ Currently exploring:
 
 ---
 
-> [LinkedIn](linkedin.com/in/nt-se)
+> [LinkedIn](https://www.linkedin.com/in/nt-se)
