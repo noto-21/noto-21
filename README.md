@@ -11,6 +11,8 @@ Currently exploring:
 - Functional Programming
 - AI
 
+**This GitHub page is a work in progress!**  Projects will be added soon.
+
 ---
 
 >|<a href="Skills.md"><img src="https://img.shields.io/badge/-Skills-%23008C00?style=plastic"></a>|<a href="https://www.linkedin.com/in/nt-se"><img src="https://img.shields.io/badge/-LinkedIn-%23007BB7?style=plastic&labelColor=white&logo=linkedin&logoColor=black"></a>|
