@@ -11,7 +11,7 @@ Currently exploring:
 - Functional Programming
 - AI
 
-**Repository showcase is a work in progress!**  Projects are being added as they come.
+**Repository showcase is a work in progress!**  Expansion in progress.
 
 ---
 
