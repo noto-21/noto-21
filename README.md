@@ -2,7 +2,7 @@
 
 ---
 
-I’m interested in <mark>JS</mark>, <mark>PHP</mark>, <mark>Java</mark>, <mark>Python</mark>, and <mark>C-Family</mark> programming languages.
+I’m interested in <mark>*JS*</mark>, <mark>*PHP*</mark>, <mark>*Java*</mark>, <mark>*Python*</mark>, and <mark>*C-Family*</mark> programming languages.
 
 Currently exploring:
 
