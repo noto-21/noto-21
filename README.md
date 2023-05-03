@@ -15,5 +15,5 @@ Currently exploring:
 
 ---
 
->|<a href="Skills.md"><img src="https://img.shields.io/badge/-Skills-%23008C00?style=plastic"></a>|<a href="https://www.linkedin.com/in/nt-se"><img src="https://img.shields.io/badge/-LinkedIn-%23007BB7?style=plastic&labelColor=white&logo=linkedin&logoColor=black"></a>|
->|:---:|:---:|
+>|<a href="Skills.md"><img src="https://img.shields.io/badge/-Skills-%23008C00?style=plastic"></a>|<a href="https://www.linkedin.com/in/nt-se"><img src="https://img.shields.io/badge/-LinkedIn-%23007BB7?style=plastic&labelColor=white&logo=linkedin&logoColor=black"></a>|<a href="https://stackoverflow.com/users/21800271/not-12?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-%23F4802C?style=plastic&labelColor=white&logo=stackoverflow&logoColor=black"></a>
+>|:---:|:---:|:---:|
