@@ -11,6 +11,7 @@ Currently exploring:
 - Functional Programming
 - AI
 - Console Emulation
+- BBS/CBBS Technology
 
 **Repository showcase is a work in progress!**  Expansions are underway.
 
