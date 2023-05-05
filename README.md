@@ -2,7 +2,7 @@
 
 ---
 
-I’m interested in *JS*, *PHP*, *Java*, *Python*, *C-Family languages*, and more.
+I’m interested in *JS*, *PHP*, *Java*, *Python*, *C-Family languages*, [and more](Skills.md).
 
 Currently exploring:
 
