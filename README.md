@@ -10,8 +10,6 @@ Currently exploring:
 - Object-Oriented Programming
 - Functional Programming
 - AI
-- Console Emulation
-- CBBS Technology
 
 ---
 
