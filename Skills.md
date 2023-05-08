@@ -10,6 +10,7 @@
 - <a href="https://react.dev/"><img src="https://img.shields.io/badge/-REACT-%2300D9FF?style=plastic&labelColor=white&logo=react&logoColor=black"></a>
 - <a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/-.NET-%23512BD3?style=plastic&labelColor=white&logo=dotnet&logoColor=black"></a>
 - <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-%23FFD645?style=plastic&labelColor=white&logo=Python&logoColor=black"></a>
+- <a href="https://pypi.org/project/pip/"><img src="https://img.shields.io/badge/-pip-%23006DAD?style=plastic&labelColor=white&logo=PyPi&logoColor=black"></a>
 - <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/-C-%23659BD2?style=plastic&labelColor=white&logo=c&logoColor=black"></a>
 - <a href="https://isocpp.org/get-started"><img src="https://img.shields.io/badge/-C++-%23004483?style=plastic&labelColor=white&logo=cplusplus&logoColor=black"></a>
 - <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/-CSharp-%2366207B?style=plastic&labelColor=white&logo=csharp&logoColor=black"></a>
