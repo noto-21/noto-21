@@ -1,6 +1,6 @@
 ### [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) // *Entering* My 3<sup>rd</sup> Year
 
-[![noto-21's GitHub stats](https://github-readme-stats.vercel.app/api?username=noto-21&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+![noto-21's GitHub stats](https://github-readme-stats.vercel.app/api?username=noto-21&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues&title_color=ffffff&text_color=ffffff)
 
 ---
 
