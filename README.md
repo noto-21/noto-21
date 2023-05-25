@@ -24,10 +24,8 @@ Currently exploring:
 
 </div>
 
----
-
-<details>
-  <summary>GitHub Stats</summary>
+<details align="center">
+  <summary style="list-style: none;">|--GitHub Stats--|</summary>
   
   <div align="center">
     <a href="https://github.com/noto-21"><img src="https://github-readme-stats.vercel.app/api?username=noto-21&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues,commits&rank_icon=github"/></a>
