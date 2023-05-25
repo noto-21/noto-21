@@ -12,7 +12,7 @@
 
 _I have experience with *JS*, *PHP*, *Java*, *Python*, *C-Family languages*, [and more](Skills.md)._
 
-<ins>--- Currently Exploring ---</ins>
+\\:/<ins>--- Currently Exploring ---</ins>\\:/
 
   <p>- Fullstack Development -</p>
   <p>- Object-Oriented Programming -</p>
