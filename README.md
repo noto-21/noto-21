@@ -1,18 +1,26 @@
 ---
 
+<div align="center">
+
 ### [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) // *Entering* My 3<sup>rd</sup> Year
+  
+</div>
 
 ---
 
-I have experience with *JS*, *PHP*, *Java*, *Python*, *C-Family languages*, [and more](Skills.md).
+<div align="center">
 
-Currently exploring:
+_I have experience with *JS*, *PHP*, *Java*, *Python*, *C-Family languages*, [and more](Skills.md)._
 
-- Fullstack Development
-- Object-Oriented Programming
-- Functional Programming
-- AI
+<ins>--- Currently Exploring ---</ins>
 
+  <p>- Fullstack Development -</p>
+  <p>- Object-Oriented Programming -</p>
+  <p>- Functional Programming -</p>
+  <p>- AI -</p>
+
+</div>
+  
 ---
 
 <div align="center">
@@ -25,7 +33,7 @@ Currently exploring:
 </div>
 
 <details align="center">
-  <summary style="list-style: none;">|--GitHub Stats--|</summary>
+  <summary style="list-style: none;">|GitHub Stats|</summary>
   
   <div align="center">
     <a href="https://github.com/noto-21"><img src="https://github-readme-stats.vercel.app/api?username=noto-21&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues,commits&rank_icon=github"/></a>
