@@ -10,7 +10,7 @@
 
 <div align="center">
 
-_I have experience with *JS*, *PHP*, *Java*, *Python*, *C-Family languages*, [and more](Skills.md)._
+_I have experience with *JavaScript*, *PHP*, *Python*, *C-Family languages*, [and more](Skills.md)._
 
 \\:/<ins>--- Currently Exploring ---</ins>\\:/
 
