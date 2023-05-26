@@ -38,7 +38,7 @@ _I have experience with *JS*, *PHP*, *Java*, *Python*, *C-Family languages*, [an
   <div align="center">
     <a href="https://github.com/noto-21"><img src="https://github-readme-stats.vercel.app/api?username=noto-21&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues,commits&rank_icon=github"/></a>
     <a href="https://github.com/noto-21"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noto-21&theme=transparent"/></a>
-    <a href="https://github.com/noto-21"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noto-21&langs_count=10&layout=compact&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,Rich%20Text%20Format&card_width=699&hide_border=true&theme=transparent&exclude_repo=xna-pack,DemoFest,Al%20Sole&size_weight=0.5&count_weight=0.5&hide_progress=false"/></a>
+    <a href="https://github.com/noto-21"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noto-21&langs_count=10&layout=compact&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,Rich%20Text%20Format&card_width=699&hide_border=true&theme=transparent&exclude_repo=xna-pack&size_weight=0.5&count_weight=0.5&hide_progress=false"/></a>
   </div>
   
 </details>
