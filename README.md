@@ -15,7 +15,7 @@ _I have experience with *JavaScript*, *PHP*, *Python*, [and more](Skills.md)._
 \\:/<ins>--- Currently Exploring ---</ins>\\:/
 
   <p>- Fullstack Development -</p>
-  <p>- Functional Programming -</p>
+  <p>- Python -</p>
   <p>- AI -</p>
 
 </div>
