@@ -6,6 +6,7 @@
 - <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/-npm-%23C2178A?style=plastic&labelColor=white&logo=npm&logoColor=black"></a>
 - <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/-Jest-%23DF172B?style=plastic&labelColor=white&logo=jest&logoColor=black"></a>
 - <a href="https://jquery.com/"><img src="https://img.shields.io/badge/-jQuery-%2376CFF7?style=plastic&labelColor=white&logo=jQuery&logoColor=black"></a>
+- <a href="https://www.jsdelivr.com/"><img src="https://img.shields.io/badge/-jsDelivr-%23F4802C?style=plastic&labelColor=white&logo=jsdelivr&logoColor=black"></a>
 - <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-%2300D9FF?style=plastic&labelColor=white&logo=react&logoColor=black"></a>
 - <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/-JSON-%2306D76B?style=plastic&labelColor=white&logo=json&logoColor=black"></a>
 - <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-%237A86B8?style=plastic&labelColor=white&logo=php&logoColor=black"></a>
