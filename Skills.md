@@ -20,3 +20,5 @@
 - <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/-C%23-%2366207B?style=plastic&labelColor=white&logo=csharp&logoColor=black"></a>
 - <a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/badge/-.NET-%23512BD3?style=plastic&labelColor=white&logo=dotnet&logoColor=black"></a>
 - <a href="https://www.monogame.net/"><img src="https://img.shields.io/badge/-MonoGame-%23E73C00?style=plastic&labelColor=white&logo=monogame&logoColor=black"></a>
+- <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-%23010409?style=plastic&labelColor=white&logo=github&logoColor=black"></a>
+- <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-%23413932?style=plastic&labelColor=white&logo=git&logoColor=black"></a>
