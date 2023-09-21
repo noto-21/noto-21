@@ -12,6 +12,7 @@
 - <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-%2300D9FF?style=plastic&labelColor=white&logo=react&logoColor=black"></a>
 - <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/-JSON-%2306D76B?style=plastic&labelColor=white&logo=json&logoColor=black"></a>
 - <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-%237A86B8?style=plastic&labelColor=white&logo=php&logoColor=black"></a>
+- <a href="https://www.phpmyadmin.net/"><img src="https://img.shields.io/badge/-phpMyAdmin-%23CCCCCC?style=plastic&labelColor=white&logo=phpmyadmin&logoColor=black"></a>
 - <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-%23CC4A38?style=plastic&labelColor=white&logo=mysql&logoColor=black"></a>
 - <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-%23FFD645?style=plastic&labelColor=white&logo=Python&logoColor=black"></a>
 - <a href="https://pypi.org/project/pip/"><img src="https://img.shields.io/badge/-pip-%23006DAD?style=plastic&labelColor=white&logo=PyPi&logoColor=black"></a>
