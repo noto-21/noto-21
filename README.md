@@ -10,13 +10,13 @@
 
 <div align="center">
 
-_I have experience with *JavaScript*, *C++*, [and more](Skills.md)._
+_I have experience with *Front/Back-end Development*, *Object-Oriented Programming*, [and more](Skills.md)._
 
 \\:/<ins>--- Currently Exploring ---</ins>\\:/
 
-  <p>- Fullstack Development -</p>
-  <p>- Python -</p>
-  <p>- AI -</p>
+  <p>- JS Frameworks (React, Vue, Angular) -</p>
+  <p>- Python Libraries (numpy, pandas, matplotlib) -</p>
+  <p>- Artificial Intelligence -</p>
 
 </div>
   
@@ -39,7 +39,6 @@ _I have experience with *JavaScript*, *C++*, [and more](Skills.md)._
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noto-21&theme=transparent"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noto-21&langs_count=10&layout=compact&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,Rich%20Text%20Format&card_width=699&hide_border=true&theme=transparent&exclude_repo=xna-pack&size_weight=0.5&count_weight=0.5&hide_progress=false"/></a>
   </div>
-  
 </details>
 
 ---
