@@ -1,5 +1,6 @@
 - <a href="https://www.microsoft.com/en-ca/windows?r=1"><img src="https://img.shields.io/badge/-Microsoft Windows-%2381BC09?style=plastic&labelColor=white&logo=windows&logoColor=black"></a>
 - <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu Linux-%238C2F3A?style=plastic&labelColor=white&logo=ubuntu&logoColor=black"></a>
+- <a href="https://www.apple.com/macos/sonoma/"><img src="https://img.shields.io/badge/-macOS-%23F5F5F7?style=plastic&labelColor=white&logo=macos&logoColor=black"></a>
 - <a href="https://www.w3.org/standards/webdesign/htmlcss"><img src="https://img.shields.io/badge/-HTML5-%23F26528?style=plastic&labelColor=white&logo=html5&logoColor=black"></a>
 - <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/-CSS3-%23244DE5?style=plastic&labelColor=white&logo=css3&logoColor=black"></a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&labelColor=white&logo=javascript&logoColor=black"></a>
