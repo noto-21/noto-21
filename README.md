@@ -24,8 +24,8 @@ _I have experience with *Front/Back-end Development*, *Object-Oriented Programmi
 
 <div align="center">
   
-  |<a href="Skills.md"><img src="https://img.shields.io/badge/-Skills-%23008C00?style=plastic"></a>|<a href="https://www.linkedin.com/in/nt-se"><img src="https://img.shields.io/badge/-LinkedIn-%23007BB7?style=plastic&labelColor=white&logo=linkedin&logoColor=black"></a>|<a href="https://stackoverflow.com/users/21800271/not-12?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-%23F4802C?style=plastic&labelColor=white&logo=stackoverflow&logoColor=black"></a>|<a href="https://noto-21.github.io/oopspie/"><img src="https://img.shields.io/badge/-Oopspie.com-%23800080?style=plastic"></a>|<a href="https://github.com/noto-21"><img src="https://komarev.com/ghpvc/?username=noto-21&color=blue&style=plastic&label=PAGE+HITS"/></a>
-  |:---:|:---:|:---:|:---:|:---:|
+  |<a href="Skills.md"><img src="https://img.shields.io/badge/-Skills-%23008C00?style=plastic"></a>|<a href="https://www.linkedin.com/in/nt-se"><img src="https://img.shields.io/badge/-LinkedIn-%23007BB7?style=plastic&labelColor=white&logo=linkedin&logoColor=black"></a>|<a href="https://stackoverflow.com/users/21800271/not-12?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-%23F4802C?style=plastic&labelColor=white&logo=stackoverflow&logoColor=black"></a>|<a href="https://noto-21.github.io/oopspie/"><img src="https://img.shields.io/badge/-Oopspie.com-%23800080?style=plastic"></a>|
+  |:---:|:---:|:---:|:---:|
   
   <a href="https://www.codewars.com/users/noto-21"><img src="https://www.codewars.com/users/noto-21/badges/micro"></a>
 
