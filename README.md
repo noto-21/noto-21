@@ -10,7 +10,7 @@
 
 <div align="center">
 
-_I have experience with *Front/Back-end Development*, *Object-Oriented Programming*, [and more](Skills.md)._
+_I have experience with *Fullstack Development*, *Object-Oriented Programming*, *Shell Scripting*, [and more](Skills.md)._
 
 \\:/<ins>--- Currently Exploring ---</ins>\\:/
 
