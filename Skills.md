@@ -51,7 +51,7 @@
 | Skill | Badge |
 |:-------:|:-------:|
 | [JUnit5](https://junit.org/junit5/) | ![JUnit5](https://img.shields.io/badge/-JUnit5-%237A7A7A?style=plastic&labelColor=white&logo=junit5&logoColor=black) |
-| [pytest](https://docs.pytest.org/en/stable/) | [![pytest](https://img.shields.io/badge/-pytest-%2300ADEF?style=plastic&labelColor=white&logo=pytest&logoColor=black)](https://docs.pytest.org/en/stable/) |
+| [pytest](https://docs.pytest.org/en/stable/) | [![pytest](https://img.shields.io/badge/-pytest-%23EEFECC?style=plastic&labelColor=white&logo=pytest&logoColor=black)](https://docs.pytest.org/en/stable/) |
 
 ### Frameworks and Libraries
 | Skill | Badge |
@@ -69,6 +69,14 @@
 | Skill | Badge |
 |:-------:|:-------:|
 | [VirtualBox](https://www.virtualbox.org/) | ![VirtualBox](https://img.shields.io/badge/-VirtualBox-%23193861?style=plastic&labelColor=white&logo=virtualbox&logoColor=black) |
+
+### Shell Scripting
+| Skill | Badge |
+|:-------:|:-------:|
+| [Bash](https://www.gnu.org/software/bash/) | ![Bash](https://img.shields.io/badge/-Bash-%23A32D2A?style=plastic&labelColor=white&logo=gnu-bash&logoColor=black) |
+| [CShell](https://linux.die.net/man/1/csh) | ![CShell](https://img.shields.io/badge/-CShell-%23650000?style=plastic&labelColor=white&logo=linux&logoColor=black) |
+| [Perl](https://www.perl.org/) | ![Perl](https://img.shields.io/badge/-Perl-%2361C5BA?style=plastic&labelColor=white&logo=perl&logoColor=black) |
+| [Windows CMD/PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3) | ![Windows CMD/PowerShell](https://img.shields.io/badge/-CMD/PowerShell-%23002355?style=plastic&labelColor=white&logo=PowerShell&logoColor=black) |
 
 </div>
 
