@@ -21,7 +21,6 @@
 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&labelColor=white&logo=javascript&logoColor=black) |
 | [Node.js](https://nodejs.org/en) | ![Node.js](https://img.shields.io/badge/-Node.js-%235B8763?style=plastic&labelColor=white&logo=nodedotjs&logoColor=black) |
 | [npm](https://www.npmjs.com/) | ![npm](https://img.shields.io/badge/-npm-%23C2178A?style=plastic&labelColor=white&logo=npm&logoColor=black) |
-| [Jest](https://jestjs.io/) | ![Jest](https://img.shields.io/badge/-Jest-%23DF172B?style=plastic&labelColor=white&logo=jest&logoColor=black) |
 | [jQuery](https://jquery.com/) | ![jQuery](https://img.shields.io/badge/-jQuery-%2376CFF7?style=plastic&labelColor=white&logo=jQuery&logoColor=black) |
 | [jsDelivr](https://www.jsdelivr.com/) | ![jsDelivr](https://img.shields.io/badge/-jsDelivr-%23F4802C?style=plastic&labelColor=white&logo=jsdelivr&logoColor=black) |
 | [React](https://react.dev/) | ![React](https://img.shields.io/badge/-React-%2300D9FF?style=plastic&labelColor=white&logo=react&logoColor=black) |
@@ -50,6 +49,7 @@
 ### Testing
 | Skill | Badge |
 |:-------:|:-------:|
+| [Jest](https://jestjs.io/) | ![Jest](https://img.shields.io/badge/-Jest-%23DF172B?style=plastic&labelColor=white&logo=jest&logoColor=black) |
 | [JUnit5](https://junit.org/junit5/) | ![JUnit5](https://img.shields.io/badge/-JUnit5-%237A7A7A?style=plastic&labelColor=white&logo=junit5&logoColor=black) |
 | [pytest](https://docs.pytest.org/en/stable/) | [![pytest](https://img.shields.io/badge/-pytest-%23EEFECC?style=plastic&labelColor=white&logo=pytest&logoColor=black)](https://docs.pytest.org/en/stable/) |
 
