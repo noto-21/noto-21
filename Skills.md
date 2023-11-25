@@ -8,14 +8,14 @@
 
 ### Operating Systems
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [Microsoft Windows](https://www.microsoft.com/en-ca/windows?r=1) | ![Microsoft Windows](https://img.shields.io/badge/-Microsoft%20Windows-%2300ADEF?style=plastic&labelColor=white&logo=windows&logoColor=black) |
 | [Ubuntu Linux](https://ubuntu.com/) | ![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-%238C2F3A?style=plastic&labelColor=white&logo=ubuntu&logoColor=black) |
 | [macOS](https://www.apple.com/macos/sonoma/) | ![macOS](https://img.shields.io/badge/-macOS-%23F5F5F7?style=plastic&labelColor=white&logo=macos&logoColor=black) |
 
 ### Web Development
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [HTML5](https://www.w3.org/standards/webdesign/htmlcss) | ![HTML5](https://img.shields.io/badge/-HTML5-%23F26528?style=plastic&labelColor=white&logo=html5&logoColor=black) |
 | [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) | ![CSS3](https://img.shields.io/badge/-CSS3-%23244DE5?style=plastic&labelColor=white&logo=css3&logoColor=black) |
 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&labelColor=white&logo=javascript&logoColor=black) |
@@ -30,7 +30,7 @@
 
 ### Server-Side Development
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [PHP](https://www.php.net/) | ![PHP](https://img.shields.io/badge/-PHP-%237A86B8?style=plastic&labelColor=white&logo=php&logoColor=black) |
 | [phpMyAdmin](https://www.phpmyadmin.net/) | ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-%23CCCCCC?style=plastic&labelColor=white&logo=phpmyadmin&logoColor=black) |
 | [MySQL](https://www.mysql.com/) | ![MySQL](https://img.shields.io/badge/-MySQL-%23CC4A38?style=plastic&labelColor=white&logo=mysql&logoColor=black) |
@@ -38,7 +38,7 @@
 
 ### Programming Languages
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [Python](https://www.python.org/) | ![Python](https://img.shields.io/badge/-Python-%23FFD645?style=plastic&labelColor=white&logo=Python&logoColor=black) |
 | [pip](https://pypi.org/project/pip/) | ![pip](https://img.shields.io/badge/-pip-%23006DAD?style=plastic&labelColor=white&logo=PyPi&logoColor=black) |
 | [Django](https://www.djangoproject.com/) | ![Django](https://img.shields.io/badge/-Django-%230A4B33?style=plastic&labelColor=white&logo=django&logoColor=black) |
@@ -49,25 +49,25 @@
 
 ### Testing
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [JUnit5](https://junit.org/junit5/) | ![JUnit5](https://img.shields.io/badge/-JUnit5-%237A7A7A?style=plastic&labelColor=white&logo=junit5&logoColor=black) |
 | [pytest](https://docs.pytest.org/en/stable/) | [![pytest](https://img.shields.io/badge/-pytest-%2300ADEF?style=plastic&labelColor=white&logo=pytest&logoColor=black)](https://docs.pytest.org/en/stable/) |
 
 ### Frameworks and Libraries
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [.NET](https://dotnet.microsoft.com/) | ![.NET](https://img.shields.io/badge/-.NET-%23512BD3?style=plastic&labelColor=white&logo=dotnet&logoColor=black) |
 | [MonoGame/XNA](http://www.monogame.net/) | ![MonoGame/XNA](https://img.shields.io/badge/-MonoGame/XNA-%23E73C00?style=plastic&labelColor=white&logo=monogame&logoColor=black) |
 
 ### Version Control and Collaboration
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [GitHub](https://github.com/) | ![GitHub](https://img.shields.io/badge/-GitHub-%23010409?style=plastic&labelColor=white&logo=github&logoColor=black) |
 | [Git](https://git-scm.com/) | ![Git](https://img.shields.io/badge/-Git-%23413932?style=plastic&labelColor=white&logo=git&logoColor=black) |
 
 ### Virtualization
 | Skill | Badge |
-|-------|-------|
+|:-------:|:-------:|
 | [VirtualBox](https://www.virtualbox.org/) | ![VirtualBox](https://img.shields.io/badge/-VirtualBox-%23193861?style=plastic&labelColor=white&logo=virtualbox&logoColor=black) |
 
 </div>
