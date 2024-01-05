@@ -56,7 +56,6 @@
 ### Frameworks and Libraries
 | Skill | Badge |
 |:-------:|:-------:|
-| [.NET](https://dotnet.microsoft.com/) | ![.NET](https://img.shields.io/badge/-.NET-%23512BD3?style=plastic&labelColor=white&logo=dotnet&logoColor=black) |
 | [MonoGame/XNA](http://www.monogame.net/) | ![MonoGame/XNA](https://img.shields.io/badge/-MonoGame/XNA-%23E73C00?style=plastic&labelColor=white&logo=monogame&logoColor=black) |
 
 ### Version Control and Collaboration
