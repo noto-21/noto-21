@@ -15,8 +15,9 @@ _I have experience with *Fullstack Development*, *Object-Oriented Programming*, 
 \\:/<ins>--- Currently Exploring ---</ins>\\:/
 
   <p>- JS Frameworks (React, Vue, Angular) -</p>
-  <p>- Python Libraries (numpy, pandas, matplotlib) -</p>
-  <p>- Artificial Intelligence -</p>
+  <p>- Python Data Science Libraries (numpy, pandas, matplotlib) -</p>
+  <p>- Testing Frameworks (pytest) -</p>
+  <p>- Artificial Intelligence (pytorch) -</p>
 
 </div>
   
