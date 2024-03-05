@@ -40,7 +40,6 @@
 |:-------:|
 | <a href="https://www.python.org/">![Python](https://img.shields.io/badge/-Python-%23FFD645?style=plastic&labelColor=white&logo=Python&logoColor=black)</a> |
 | <a href="https://pypi.org/project/pip/">![pip](https://img.shields.io/badge/-pip-%23006DAD?style=plastic&labelColor=white&logo=PyPi&logoColor=black)</a> |
-| <a href="https://www.djangoproject.com/">![Django](https://img.shields.io/badge/-Django-%230A4B33?style=plastic&labelColor=white&logo=django&logoColor=black)</a> |
 | <a href="https://www.cprogramming.com/">![C](https://img.shields.io/badge/-C-%23659BD2?style=plastic&labelColor=white&logo=c&logoColor=black)</a> |
 | <a href="https://isocpp.org/get-started">![C++](https://img.shields.io/badge/-C++-%23004483?style=plastic&labelColor=white&logo=cplusplus&logoColor=black)</a> |
 | <a href="https://dotnet.microsoft.com/en-us/languages/csharp">![C#](https://img.shields.io/badge/-C%23-%2366207B?style=plastic&labelColor=white&logo=csharp&logoColor=black)</a> |
@@ -56,6 +55,7 @@
 ### Frameworks and Libraries
 | Skill |
 |:-------:|
+| <a href="https://www.djangoproject.com/">![Django](https://img.shields.io/badge/-Django-%230A4B33?style=plastic&labelColor=white&logo=django&logoColor=black)</a> |
 | <a href="http://www.monogame.net/">![MonoGame/XNA](https://img.shields.io/badge/-MonoGame/XNA-%23E73C00?style=plastic&labelColor=white&logo=monogame&logoColor=black)</a> |
 
 ### Version Control and Collaboration
