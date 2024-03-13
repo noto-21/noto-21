@@ -17,7 +17,7 @@ _I have experience with *Fullstack Development*, *Object-Oriented Programming*, 
   <p>- JS Frameworks (React, Vue, Angular) -</p>
   <p>- Python Data Science Libraries (numpy, pandas, matplotlib) -</p>
   <p>- Testing/Containerization (JUnit/Maven, pytest, Docker, Kubernetes) -</p>
-  <p>- Artificial Intelligence (pytorch) -</p>
+  <p>- Artificial Intelligence (pytorch, JavaML) -</p>
 
 </div>
   
