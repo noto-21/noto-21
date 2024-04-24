@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) // 3<sup>rd</sup> Year
+### Incoming Cloud & Collaboration Intern @ [Celestica](https://www.celestica.com/) /// [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) (Entering 4<sup>th</sup> Year)
   
 </div>
 
