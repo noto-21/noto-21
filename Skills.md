@@ -16,8 +16,8 @@
 ### Web Development
 | Skills |
 |:-------:|
-| <a href="https://www.w3.org/standards/webdesign/htmlcss">![HTML5](https://img.shields.io/badge/-HTML5-%23F26528?style=plastic&labelColor=white&logo=html5&logoColor=black)</a> |
-| <a href="https://www.w3.org/Style/CSS/Overview.en.html">![CSS](https://img.shields.io/badge/-CSS3-%23244DE5?style=plastic&labelColor=white&logo=css&logoColor=black)</a> |
+| <a href="https://www.w3.org/standards/webdesign/htmlcss">![HTML5](https://img.shields.io/badge/-HTML-%23F26528?style=plastic&labelColor=white&logo=html5&logoColor=black)</a> |
+| <a href="https://www.w3.org/Style/CSS/Overview.en.html">![CSS](https://img.shields.io/badge/-CSS-%23244DE5?style=plastic&labelColor=white&logo=css&logoColor=black)</a> |
 | <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&labelColor=white&logo=javascript&logoColor=black)</a> |
 | <a href="https://nodejs.org/en">![Node.js](https://img.shields.io/badge/-Node.js-%235B8763?style=plastic&labelColor=white&logo=nodedotjs&logoColor=black)</a> |
 | <a href="https://www.npmjs.com/">![npm](https://img.shields.io/badge/-npm-%23C2178A?style=plastic&labelColor=white&logo=npm&logoColor=black)</a> |
