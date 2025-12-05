@@ -57,6 +57,7 @@
 |:-------:|
 | <a href="https://flask.palletsprojects.com/en/stable/">![Flask](https://img.shields.io/badge/-Flask-%2379ABD1?style=plastic&labelColor=white&logo=flask&logoColor=black)</a> |
 | <a href="https://www.djangoproject.com/">![Django](https://img.shields.io/badge/-Django-%230A4B33?style=plastic&labelColor=white&logo=django&logoColor=black)</a> |
+| <a href="https://gradle.org/">![Gradle](https://img.shields.io/badge/-Gradle-%237ac2bf?style=plastic&labelColor=white&logo=gradle&logoColor=black)</a> |
 | <a href="http://www.monogame.net/">![MonoGame/XNA](https://img.shields.io/badge/-MonoGame/XNA-%23E73C00?style=plastic&labelColor=white&logo=monogame&logoColor=black)</a> |
 
 ### Version Control and Collaboration
