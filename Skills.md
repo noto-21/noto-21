@@ -7,17 +7,17 @@
 <br>
 
 ### Operating Systems
-| Skill |
+| Skills |
 |:-------:|
-| <a href="https://www.microsoft.com/en-ca/windows?r=1">![Microsoft Windows](https://img.shields.io/badge/-Microsoft%20Windows-%2300ADEF?style=plastic&labelColor=white&logo=windows&logoColor=black)</a> |
+| <a href="https://www.microsoft.com/en-ca/windows?r=1">![Microsoft Windows](https://img.shields.io/badge/-Microsoft%20Windows-%2300ADEF?style=plastic&labelColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAqoSURBVHic7dwxbtsIFEVR0kifZAfZ/yY5zXRjixgx9Cd5zwHU2dZvpHchCF63bVsAgJaP6QMAgO8nAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAE/Zg+AAD4+9Z1/bUsy5+vHgIAAG5ob+CXZfn56vcFAABc0NGB3yMAAGDA2QO/RwAAwAmmB36PAACAN1x94PcIAAD4xN0Hfo8AACDp6QO/RwAA8Ej1gd8jAAC4JQN/jAAA4JIM/LkEAAAjDPwsAQDAKQz8tQkAAN5i4O9NAADwKQP/bAIAIMrAtwkAgIcy8LwiAABuysBzhAAAuCgDz5kEAMAQA88kAQBwEgPPlQkAgDcZeO5MAAB8wcDzZAIAyDLwlAkA4LEMPHxNAAC3ZeDhfQIAuCwDD+cRAMAYAw9zBABwGgMP1yUAgLcZeLgvAQB8ycDDcwkACDPw0LVu2zZ9AzBkXVdvABD1MX0AAPD9BAAABAkAAAjyJUA40d6X7LZt+zVyGJAnAOAA36IH7koAwAsGHngqAUCagQeqBACPZuABPicAuDUDD/AeAcClGXiAcwgARhl4gBkCgFMZeIBrEgAcYuAB7kkA8JKBB3gmARBn4AGaBMDDGXgAPiMAbs7AA/AOAXBxBh6AMwiAYQYegAkC4GQGHoArEgAHGXgA7kgA7DDwADxRPgAMPABFjw8AAw8A/3X7ADDwAPD/XT4ADDwA/H3jAWDgAeD7nR4ABh4ArudwABh4ALif3QAw8ADwPD8MPAD0rMuybNNHQNW2bevk86/r6vUPUR/TBwAA308AAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAhat22bvgEA+GY+AQCAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIGhdlmWbPgKqtm1bJ59/XVevf4jyCQAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEE/lmX5vSzLnxePn99/FgBwpnXbttc/sK6/FoEAp9i2bZ18/nVdX78BAI+1GwC7f0AgwNsEADDlcADsPoFAgC8JAGDK6QGwe4BAIEwAAFPGA2CPQODJBAAw5fIBsEcgcGcCAJhy+wDYIxC4MgEATHl8AOwRCEwSAMCUfADsEQicSQAAUwTAQQKBIwQAMEUAnEwg8IoAAKYIgGECoU0AAFMEwMUJhGcTAMAUAXBzAuHeBAAwRQA8nEC4NgEATBEAcQJhlgAApggAXhII5xIAwBQBwCEC4RgBAEwRAJxKILwmAIApAoBR9UAQAMAUAcClPT0QBAAwRQBwa3cPBAEATBEAPNrVA0EAAFMEAGnTgSAAgCkCAF44OxAEADBFAMABRwNBAABTBACcaC8Qtm37NXLYvwQAdAkACBMA0PUxfQAA8P0EAAAECQAACPoxfQAw6vdy4X+UBJzHlwCBL03/oyTgPAIAeJtAgPsSAMBpBAJclwAAxggEmCMAgMsSCHAeAQDclkCA9wkA4LEEAnxNAABZAoEyAQDwBYHAkwkAgDcJBO5MAACcRCBwZQIAYIhAYJIAALgogcCZBADATQkEjhAAAA8lEHhFAABECYQ2AQDApwTCswkAAN4iEO5NAABwCoFwbQIAgBECYZYAAOCSBMK5BAAAtyQQjhEAADySQHhNAACQVA8EAQAAn3h6IAgAAHjD3QNBAADACa4eCAIAAAZMB4IAAIALOjsQBAAA3NDRQBAAAPBAe4EgAAAg6GP6AADg+wkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEH/AGBItFxAcgtKAAAAAElFTkSuQmCC)</a> |
 | <a href="https://ubuntu.com/">![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-%238C2F3A?style=plastic&labelColor=white&logo=ubuntu&logoColor=black)</a> |
 | <a href="https://www.apple.com/macos/sonoma/">![macOS](https://img.shields.io/badge/-macOS-%23F5F5F7?style=plastic&labelColor=white&logo=macos&logoColor=black)</a> |
 
 ### Web Development
-| Skill |
+| Skills |
 |:-------:|
 | <a href="https://www.w3.org/standards/webdesign/htmlcss">![HTML5](https://img.shields.io/badge/-HTML5-%23F26528?style=plastic&labelColor=white&logo=html5&logoColor=black)</a> |
-| <a href="https://www.w3.org/Style/CSS/Overview.en.html">![CSS3](https://img.shields.io/badge/-CSS3-%23244DE5?style=plastic&labelColor=white&logo=css3&logoColor=black)</a> |
+| <a href="https://www.w3.org/Style/CSS/Overview.en.html">![CSS](https://img.shields.io/badge/-CSS3-%23244DE5?style=plastic&labelColor=white&logo=css&logoColor=black)</a> |
 | <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic&labelColor=white&logo=javascript&logoColor=black)</a> |
 | <a href="https://nodejs.org/en">![Node.js](https://img.shields.io/badge/-Node.js-%235B8763?style=plastic&labelColor=white&logo=nodedotjs&logoColor=black)</a> |
 | <a href="https://www.npmjs.com/">![npm](https://img.shields.io/badge/-npm-%23C2178A?style=plastic&labelColor=white&logo=npm&logoColor=black)</a> |
@@ -28,7 +28,7 @@
 | <a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/-Bootstrap-%238B23FD?style=plastic&labelColor=white&logo=bootstrap&logoColor=black)</a> |
 
 ### Server-Side Development
-| Skill |
+| Skills |
 |:-------:|
 | <a href="https://www.php.net/">![PHP](https://img.shields.io/badge/-PHP-%237A86B8?style=plastic&labelColor=white&logo=php&logoColor=black)</a> |
 | <a href="https://www.phpmyadmin.net/">![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-%23CCCCCC?style=plastic&labelColor=white&logo=phpmyadmin&logoColor=black)</a> |
@@ -36,46 +36,58 @@
 | <a href="https://www.sqlite.org/index.html">![SQLite](https://img.shields.io/badge/-SQLite-%23044A64?style=plastic&labelColor=white&logo=sqlite&logoColor=black)</a> |
 
 ### Programming Languages
-| Skill |
+| Skills |
 |:-------:|
 | <a href="https://www.python.org/">![Python](https://img.shields.io/badge/-Python-%23FFD645?style=plastic&labelColor=white&logo=Python&logoColor=black)</a> |
 | <a href="https://pypi.org/project/pip/">![pip](https://img.shields.io/badge/-pip-%23006DAD?style=plastic&labelColor=white&logo=PyPi&logoColor=black)</a> |
 | <a href="https://www.cprogramming.com/">![C](https://img.shields.io/badge/-C-%23659BD2?style=plastic&labelColor=white&logo=c&logoColor=black)</a> |
 | <a href="https://isocpp.org/get-started">![C++](https://img.shields.io/badge/-C++-%23004483?style=plastic&labelColor=white&logo=cplusplus&logoColor=black)</a> |
-| <a href="https://dotnet.microsoft.com/en-us/languages/csharp">![C#](https://img.shields.io/badge/-C%23-%2366207B?style=plastic&labelColor=white&logo=csharp&logoColor=black)</a> |
+| <a href="https://dotnet.microsoft.com/en-us/languages/csharp">![C#](https://img.shields.io/badge/-C%23-%2366207B?style=plastic&labelColor=white&logo=dotnet&logoColor=black)</a> |
 | <a href="https://www.java.com/en/">![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=plastic&labelColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEdUlEQVRogdWZWYwUVRiFDw6bEVBWQcMWYJQ1ENaIrPKACYuQDNGoEDQi+/oAvBCQaFhcAjwMDIZFBhIJYJTwAoQlAgnKEiOCkfCAkSVA2Pf9nPlvp2tq2umumu4qOMkXhqrqW+dW3fvf/78FRK/6pH0M982q1sZtoKI6HbeBiugV8oS8FLeRsCogV+I2URH9SnbFbSKsRsOGz8i4jYRRH3Kb/EUqx+wlsN4i18l90i1mL4H1MbkDGzpjyrmuWjR2Mlce+QZmXMxKcY1W5RnkM1InOmvpJTPbYcYfksm+8/mw1fgweTtaa+nVnJyAmb9BBnvOvUy+JvdIIakeubs0akPOwcyfIZ0857rDUgjNh/ejt5Ze9cgpmPmLpLXnXC9yk9wlA6O3lpm2wMw/RmmTmqjn3bmpMfjKSE1hxmXyF9+5+e74NTyDoTKhvkiGywLfud/d8VMRewokRZ5EB7r4zp1Ecmg1i9ZWMCmmp3oDW5Hs3IaoTQWRJq5MFvqOj0CyA2JYxL4CaTks42zoOaaUIvF2xAVYVfZMSlFmL8oOFaUOWpUTnfgkYl+BVBv2xP1DZRySHZgStamg0hD5mTTwHKtKbsE60CEOU0FVg3zo+X8lcpWszOC3ld31OVVN0o+MJ/1hmaZfVT1GdM1mlL8aK+GbDVvN1dlNpEWW/JboRViFtduhJ1wrg9/J9HvkhQD36kouw/Ko14LZTK3PYU9FY1jpQZWQ7ajD7cgg2Nv7EvYmU3VunrvfVyHvVUqfkj/JI9eo4v0B8hP5nqxwLCFFZCPZRvaQQ7CU4rL7vQqe9bByslk59yxw91qXjQ4kpDDZGzZ8ppMF5DtPB0ShOz7fmfwIlvC9CRuGmepbWAf8JWlWlZejdjV5VQTpzeVkH1V7/IoqDdJdGEKatH/DUvD8HLRfokuwFHkpbNXtQVrBdiRqe2gCS7HfJZNgw0t7o9oj7ZyiXU1o1c5FyPFWi+ZAYvchKKrOdsCiTF3Xnmpq7SMtI2/k0rhfGqvarJ0DW2U3+lAEWQibiMNhQy/VvGmL53DPNHZpMZuIsmXkcyMNG41pRYxFsJRZKUNP2AQV78Dmi/ZGf4AtalrsXo/Bbxlp8+oYwk3k30jLKM0q2xwAW1U7+s7piWs13knOoqzZ/2CV2ioyATmM7X4pHR7lbv4jLAGrEfD3YTdwtaM3JORvS6Rwp89BeoJzK9JQCGlBXAObP6GlFTMxBB7AskoVG/rWpQmYjYpJb1Pl5VBYYqgMdT9sQWvsua5RmMZVhHwAyy41hDSOveNa2+SKPgdhHzO0aBWhdFYqVrtzqpE1R46Sf2H1sb4T/EOKYRFMdYL3wbRzbfQN04FUUiqsyKN8RaFxGiyUKnVe4m62HslVuNgdW0y+IDNhq7a22/WE/UWM5ksf1+Y+8oe7Nquq4hrt6UyEWf5fhUUyBQUNHXVSyZ3eynFYh7tmw+z/SbmMxq42qBIFjUKkKjCl2Dvc36rYNGSUFp92/4ojsIxU38lUUo6FfSsLEuFK9BT3yxFMEsDS5QAAAABJRU5ErkJggg==)</a> |
 
 ### Testing
-| Skill |
+| Skills |
 |:-------:|
 | <a href="https://jestjs.io/">![Jest](https://img.shields.io/badge/-Jest-%23DF172B?style=plastic&labelColor=white&logo=jest&logoColor=black)</a> |
 | <a href="https://junit.org/junit5/">![JUnit5](https://img.shields.io/badge/-JUnit5-%237A7A7A?style=plastic&labelColor=white&logo=junit5&logoColor=black)</a> |
 | <a href="https://docs.pytest.org/en/stable/">![pytest](https://img.shields.io/badge/-pytest-%23EEFECC?style=plastic&labelColor=white&logo=pytest&logoColor=black)</a> |
 
 ### Frameworks and Libraries
-| Skill |
+| Skills |
 |:-------:|
+| <a href="https://flask.palletsprojects.com/en/stable/">![Flask](https://img.shields.io/badge/-Flask-%2379ABD1?style=plastic&labelColor=white&logo=flask&logoColor=black)</a> |
 | <a href="https://www.djangoproject.com/">![Django](https://img.shields.io/badge/-Django-%230A4B33?style=plastic&labelColor=white&logo=django&logoColor=black)</a> |
 | <a href="http://www.monogame.net/">![MonoGame/XNA](https://img.shields.io/badge/-MonoGame/XNA-%23E73C00?style=plastic&labelColor=white&logo=monogame&logoColor=black)</a> |
 
 ### Version Control and Collaboration
-| Skill |
+| Skills |
 |:-------:|
 | <a href="https://github.com/">![GitHub](https://img.shields.io/badge/-GitHub-%23010409?style=plastic&labelColor=white&logo=github&logoColor=black)</a> |
+| <a href="https://about.gitlab.com/">![GitLab](https://img.shields.io/badge/-GitLab-%23e8a53a?style=plastic&labelColor=white&logo=gitlab&logoColor=black)</a> |
 | <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-%23413932?style=plastic&labelColor=white&logo=git&logoColor=black)</a> |
 
+### Automation + CI/CD
+| Skills |
+|:-------:|
+| <a href="https://developer.hashicorp.com/terraform">![Terraform](https://img.shields.io/badge/-Terraform-%23703db8?style=plastic&labelColor=white&logo=terraform&logoColor=black)</a> |
+
 ### Virtualization
-| Skill |
+| Skills |
 |:-------:|
 | <a href="https://www.virtualbox.org/">![VirtualBox](https://img.shields.io/badge/-VirtualBox-%23193861?style=plastic&labelColor=white&logo=virtualbox&logoColor=black)</a> |
 
+### Emulation
+| Skills |
+|:-------:|
+| <p> Coming soon! </p> |
+
 ### Shell Scripting
-| Skill |
+| Skills |
 |:-------:|
 | <a href="https://www.gnu.org/software/bash/">![Bash](https://img.shields.io/badge/-Bash-%23A32D2A?style=plastic&labelColor=white&logo=gnu-bash&logoColor=black)</a> |
 | <a href="https://linux.die.net/man/1/csh">![CShell](https://img.shields.io/badge/-CShell-%23650000?style=plastic&labelColor=white&logo=linux&logoColor=black)</a> |
 | <a href="https://www.perl.org/">![Perl](https://img.shields.io/badge/-Perl-%2361C5BA?style=plastic&labelColor=white&logo=perl&logoColor=black)</a> |
-| <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3">![Windows CMD/PowerShell](https://img.shields.io/badge/-CMD/PowerShell-%23002355?style=plastic&labelColor=white&logo=PowerShell&logoColor=black)</a> |
+| <a href="https://github.com/PowerShell/powershell/releases">![Windows CMD + PowerShell](https://img.shields.io/badge/-CMD%20+%20PowerShell-%23002355?style=plastic&labelColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACtElEQVR4nO2YTYiNURjHfwb5DJGmGWI0NYoyshsr0pRSw2J8LCZSUqjZs0BRFhaiJqVERBZTig3ja6NQvkoii4mFjFIzNMKMua/OdBa6nefMOfd93ntfev/1rO69/+f8uufjeR4oVKhQof9NU4C9QB/wCfgBJDWOMeAzcAfoCIGYAdzPwcITT5SAXROBnMjBQpOAeOODmA18zcEik4D45QPZkoMFJoEx4AM5E2F0E2gB6oHTNQC56wN5FmjyBJha9tujVQY57jsfo4EmJwWPs1UE2SSBbIi8MaY7PCYDvVW6fhdIIIcjzS4Akxw+BvBBxiBv8aivAsNjgtcc4HmGIOclCLMlhio07RY8FwLvMgLZI4GsTlkDdQq+zfa+1wZZKYEcUHhlzWXh0ipgUBFiEKiTQK4qJDClTavgvx74qQRyC48+KCX5CCwVcmy32zBtjiMSxCLl/fsamC/k2qfg3y6BbFMGMfHQ9jXar/8YMFcCyarg6xUezMYUnq/w6GkGEN+AHUK+jhS+5ySIWRGFYmi8sOW9S5uB4RTeuzUKxZC4JJyNaXYLl1L6t2gVilIM2UvDpSbgsUKOL8KZG9dthQSmyVom+HemqOESR0fqVF3KJCW7Xco7Rez20r4ND0kgrSlMzaBso+C7wl6TiXKsk0D2V2h4D2gQPHcC3zOA+G1bcaeuRJqN2gGDq/I0r+21DAASG2YoIqo/wug90Cb4rLWfXwTmESbzvcsR+Xsko8bIusnV6Jt/5uBfD6rpCGPUELGGLslka4SJ6fLKVe/o8bMEaZZMTkWYrCn7bbvQvma1tQZ8Ro8iQF4Cy4EldqSq0RzFxHUfiNZrW43o9oFo9c9ZxwiwWGNYXevomeCsjQ+AR3KwUF+YaclMAtRmX+P+nJyZYTvNuWG7S7FkL1SoUCH+Sf0BsXx7gYRA4AcAAAAASUVORK5CYII=)</a> |
 
 </div>
 
