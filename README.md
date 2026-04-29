@@ -2,8 +2,8 @@
 
 <div align="center">
 
-## \\\\\\ [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) - 5<sup>th</sup> Year ///
-### // _Business Management Specialization_ \\\\
+## \\\\\\ [Software Engineering Student](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) @ [OTU](https://ontariotechu.ca/) - 6<sup>th</sup> Year ///
+### // _Software Engineering & Management_ \\\\
   
 </div>
 
